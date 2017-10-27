@@ -15,4 +15,4 @@ import { ShortNumberPipe } from './pipes/short-number.pipe';
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class ShortNumberModule { }
