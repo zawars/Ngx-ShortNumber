@@ -1,6 +1,6 @@
-# ShortNumberPipe
+# Short Number Pipe
 
-Number converter into K,M,B format. For example, `1500` => `1.5K`
+Angular Pipe for converting numbers into K,M,B format. For example, `1500` => `1.5K`
 
 ## Installation
 
@@ -29,9 +29,9 @@ and then add it into imports section
 
 ## Example
 
-`<span>{{ facebook.post.likes | shortNumber }}</span>`
+`<span>{{ youtube.channel.subscribers | shortNumber }}</span>`
 
 
-## Further help
+## Credits
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+* Creator: [Zawar Shahid](https://github.com/zawars).
