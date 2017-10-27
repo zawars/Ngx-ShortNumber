@@ -2,6 +2,11 @@
   "name": "ngx-short-number-pipe",
   "version": "0.0.2",
   "license": "MIT",
+  "url": "https://github.com/zawars/Ngx-ShortNumber",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zawars/Ngx-ShortNumber.git"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
